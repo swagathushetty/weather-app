@@ -1,0 +1,23 @@
+body{
+  background: #eeedec;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+.container{
+  max-width: 400px;
+}
+
+.info {
+    background-color: yellow;
+}
+
+span:hover {
+    cursor:pointer ;
+}
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+}
